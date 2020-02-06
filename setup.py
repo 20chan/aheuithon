@@ -17,4 +17,5 @@ setup(
     url="https://github.com/20chan/aheuithon",
     liccense=license,
     packages=find_packages(exclude=()),
+    install_requires=["parso"],
 )
