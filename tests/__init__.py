@@ -1,0 +1,1 @@
+from aheuithon.codec import register
