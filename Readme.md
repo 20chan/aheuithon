@@ -12,6 +12,8 @@ def aheui_ord(ch):
 print(aheui_ord('a')) # 97
 ```
 
+Inspired by [inlinec](https://github.com/georgek42/inlinec)
+
 ## Progress
 
 - [x] codec
